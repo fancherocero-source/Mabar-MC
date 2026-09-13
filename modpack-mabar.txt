@@ -129,3 +129,5 @@ https://cdn.modrinth.com/data/NcUtCpym/versions/BzCXHIwa/xaeroworldmap-fabric-26
 https://cdn.modrinth.com/data/1eAoo2KR/versions/ylPbYWi9/yet_another_config_lib_v3-3.9.4%2B26.1-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
 https://cdn.modrinth.com/data/PyMmOOT4/versions/C8Ses8x8/yuushya-2.3.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
 https://cdn.modrinth.com/data/w7ThoJFB/versions/3zi0VJPK/zoomify-2.16.0%2B26.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/s9hF9QGp/versions/SZBvwLl0/cosmetica-fabric-2.0.1-26.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/8IFHiuMI/versions/IKL0XEVz/simplemodsync-fabric-26.1-1.4.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
