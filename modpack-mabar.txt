@@ -131,3 +131,14 @@ https://cdn.modrinth.com/data/PyMmOOT4/versions/C8Ses8x8/yuushya-2.3.0.jar?mr_do
 https://cdn.modrinth.com/data/w7ThoJFB/versions/3zi0VJPK/zoomify-2.16.0%2B26.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
 https://cdn.modrinth.com/data/s9hF9QGp/versions/SZBvwLl0/cosmetica-fabric-2.0.1-26.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
 https://cdn.modrinth.com/data/8IFHiuMI/versions/IKL0XEVz/simplemodsync-fabric-26.1-1.4.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/Ba3uA4qP/versions/OGAqeSFS/Saros-Road-Signs-Fabric-26.1.2-4.15.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/6t2MdNbo/versions/KMwPvRfN/alcocraftplus-26.1.2-2.1.3-fabric.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/lhGA9TYQ/versions/k9DCEQ4B/architectury-fabric-20.1.14.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/P0Mu4wcQ/versions/RAHdA2ed/artifacts-fabric-15.1.3.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/GFqBpmHU/versions/MMjfZMx5/artifactscrafting-fabric26.1.2-2.0.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/OihWKxvL/versions/2fNSuSXm/cats-dont-care-1.0.1%2B26.1%2Bfabric.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/IYY9Siz8/versions/eeYK2UkC/jamlib-fabric-2.3.1%2B26.1.x.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/ppMUvsIg/versions/RtzEHUwL/leafmealone-1.2.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/Jaoe8qGe/versions/d8lU1cSX/repo-heads-1.3.0%2B26.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/Cnejf5xM/versions/spaSLGmu/rightclickharvest-fabric-4.6.2%2B26.1.x.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
+https://cdn.modrinth.com/data/twy9eWkt/versions/zK990SMg/signpost-fabric-26.1.2-2.04.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=fabric
